@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yassinebenarbia
-- 👀 I’m interested in anyting 
+- 👀 I’m interested in learning what ever i can
 - 🌱 I’m currently learning anything i can got my hands on :)
 - 💞️ I’m looking to learn
 - 📫 How to reach me yassinebenarbia980@gmail.com
