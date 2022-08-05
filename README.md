@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yassinebenarbia
+- 👋 Hi, I’m Yassine
 - 👀 I’m interested in learning what ever i can
 - 🌱 I’m currently learning anything i can got my hands on :)
 - 💞️ I’m looking to learn
