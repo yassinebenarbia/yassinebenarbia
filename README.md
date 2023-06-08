@@ -1,6 +1,6 @@
 - Hi, I’m Yassine
 - I’m interested in learning what ever i can and enjoy.
-- I’m currently rusting around, noting special.  
+- I’m currently rusting around, nothing special.  
 - How to reach me : yassinebenarbia980@gmail.com
 
 I use Arch, BTW :") "for the meme uk"
