@@ -1,1 +1,1 @@
-Hi there.
+<p alight="center">Hi there</p>
