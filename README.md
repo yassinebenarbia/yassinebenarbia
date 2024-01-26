@@ -1,1 +1,3 @@
-<p alight="center">Hi there</p>
+<div alight="center">
+  <p>Hi there</p>
+</div>
