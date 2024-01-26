@@ -1,3 +1,1 @@
-<div alight="center">
-  <p>Hi there</p>
-</div>
+<p align="center">Hi there.</p>
