@@ -4,8 +4,8 @@
 use std::fmt;
 
 fn main() {
-    let tado = Rustacean{name: "Yassine", pronouns: &Pronouns::HeHim, distro: "NixOS/Arch"};
-    println!("{tado}");
+    let intro = Rustacean{name: "Yassine", pronouns: &Pronouns::HeHim, distro: "NixOS/Arch"};
+    println!("{intro}");
 }
 
 #[allow(dead_code)]
