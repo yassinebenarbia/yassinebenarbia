@@ -26,7 +26,7 @@ enum Pronouns<'a> {
 
 impl fmt::Display for Rustacean<'_> {
     fn fmt(&self, f: &mut fmt::Formatter<'_>) -> fmt::Result {
-        write!(f, "Hi! I am {}, and use {} BTW!", self.name, self.distro)
+        write!(f, "Hi! I'm {}, and I use {} BTW!", self.name, self.distro)
     }
 }
 
